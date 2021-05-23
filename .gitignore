@@ -11,7 +11,7 @@ PPLM/discrim_models/*
 models/
 GeDi/data/*
 GeDi/pretrained_models/*
-
+GeDi/scripts/runs/*
 
 
 # Byte-compiled / optimized / DLL files
